@@ -2,9 +2,9 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
       <File FileName="Models/Constants.cs" Line="6" Column="6" />
-      <File FileName="Models/Utilities/FTP.cs" Line="12" Column="6" />
-      <File FileName="Models/Imaging.cs" Line="1" Column="1" />
-      <File FileName="Models/Student.cs" Line="37" Column="1" />
+      <File FileName="Models/Utilities/FTP.cs" />
+      <File FileName="Models/Imaging.cs" />
+      <File FileName="Models/Student.cs" />
       <File FileName="Program.cs" Line="14" Column="23" />
     </Files>
     <Pads>
